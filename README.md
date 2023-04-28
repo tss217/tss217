@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**tss217/tss217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 Education: UMESP - Universidade Metodista de São PAulo
+- 📃 I’m currently learning: ◇Python◇  ◇C#◇ ⫴ ◇Pentest◇
+- 📫 How to reach me: thiago.sdasilva2090@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I chose to work an engineer because I like to understand and search how things work and create new things from this
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tss217&show_icons=true&theme=tokyonight)
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
