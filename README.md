@@ -10,8 +10,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tss217&show_icons=true&theme=tokyonight)
 
+[![In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-s-silva-aa0b611b9/)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+[![In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-s-silva-aa0b611b9/)
 
